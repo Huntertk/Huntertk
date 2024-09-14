@@ -1,5 +1,5 @@
 # 💫 About Me:
-MERN STACK DEVELOPER<br>JS DEVELOPER
+FULL STACK DEVELOPER<br>
 
 
 # 💻 Tech Stack:
